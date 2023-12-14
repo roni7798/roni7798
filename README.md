@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roni7798
 - 👀 I’m interested in adding all my personal projects to GitHub and continue learning/adding knowledge
-- 🌱 I’m currently ""learning"" Python. Normally, I work with Java, C# (+MVC, APIs), Ruby, among other languages.
+- 🌱 I work with Java, C# (+MVC, APIs), Ruby, Python, among other languages.
 - 📫 How to reach me:
 
 * Instagram --> https://www.instagram.com/ronijordanlopez/
